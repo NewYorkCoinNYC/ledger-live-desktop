@@ -10,6 +10,7 @@ setSupportedCurrencies([
   "bitcoin_cash",
   "stellar",
   "dogecoin",
+  "newyorkcoin",
   "cosmos",
   "dash",
   "tron",
